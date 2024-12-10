@@ -1,0 +1,1 @@
+This repository contains an example of a common error in R programming related to subsetting data frames.  The bug arises when attempting to subset a data frame using a character vector that includes column names that do not exist in the data frame. The solution demonstrates a robust way to handle such scenarios, preventing errors and ensuring the code runs smoothly.
